@@ -6,7 +6,7 @@ This Python project utilizes OpenCV and deep learning to colorize black and whit
 1. Model files:
    - colorization_deploy_v2.prototxt: [Download](colorization_deploy_v2.prototxt)
    - pts_in_hull.npy: [Download](https://github.com/richzhang/colorization/blob/caffe/colorization/resources/pts_in_hull.npy)
-   - colorization_release_v2.caffemodel: [Download](colorization_release_v2.caffemodel:)
+   - colorization_release_v2.caffemodel: [Download](https://www.dropbox.com/s/dx0qvhhp5hbcx7z/colorization_release_v2.caffemodel?dl=1)
 
 ## Installation
 1. Install dependenies:
